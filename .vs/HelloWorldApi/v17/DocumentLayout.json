@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\.NET\\Code\\HelloWorldApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{949CB5ED-EAF6-4BD8-91F1-3F1F33769739}|HelloWorldApi\\HelloWorldApi.csproj|c:\\.net\\code\\helloworldapi\\helloworldapi\\docker||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{949CB5ED-EAF6-4BD8-91F1-3F1F33769739}|HelloWorldApi\\HelloWorldApi.csproj|solutionrelative:helloworldapi\\docker||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d84ee353-0bef-5a41-a649-8f89aca5d84d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Docker",
+              "DocumentMoniker": "C:\\.NET\\Code\\HelloWorldApi\\HelloWorldApi\\Docker",
+              "RelativeDocumentMoniker": "HelloWorldApi\\Docker",
+              "ToolTip": "C:\\.NET\\Code\\HelloWorldApi\\HelloWorldApi\\Docker",
+              "RelativeToolTip": "HelloWorldApi\\Docker",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-08-07T14:20:46.067Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
